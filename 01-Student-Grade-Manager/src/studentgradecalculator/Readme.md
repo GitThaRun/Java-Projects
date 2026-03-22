@@ -6,36 +6,31 @@ A Java console application to manage student records and calculate academic perf
 
 ## 📌 Features
 
-- Add student with multiple subjects and marks
-- View all students with:
-  - Total marks
-  - Average marks
-  - Grade calculation
-- Search student by roll number
+- Add student with multiple subjects and marks  
+- View all students with total, average, and grade  
+- Search student by roll number  
 - Input validation for marks (0–100)
 
 ---
 
 ## 🧠 Concepts Used
 
-- Object-Oriented Programming (OOP)
-- Java Collections (HashMap, List)
-- Exception handling & validation
+- Object-Oriented Programming (OOP)  
+- Java Collections (HashMap, List)  
+- Exception handling & validation  
 - Modular structure (model, service, app)
 
 ---
 
 ## 📂 Project Structure
+
+```text
 src/
 └── studentgradecalculator/
-├── app/
-├── model/
-└── service/
-
----
-
-
----
+    ├── app/
+    ├── model/
+    └── service/
+```
 
 ## ▶️ How to Run
 
