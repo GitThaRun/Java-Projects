@@ -26,26 +26,6 @@ custom exceptions, and service-layer design.
 - Comparator and Comparable
 - Object-Oriented Programming
 
-## Project Structure
-
-src/
-├── app/
-│   └── Main.java
-├── exception/
-│   ├── InsufficientStockException.java
-│   └── InvalidOrderException.java
-├── model/
-│   ├── Product.java
-│   ├── Customer.java
-│   ├── Order.java
-│   ├── OrderItem.java
-│   ├── Inventory.java
-│   └── OrderStatus.java
-└── service/
-    ├── InventoryService.java
-    └── OrderService.java
-
-
 
 ## Storage
 
